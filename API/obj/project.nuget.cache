@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "EKO/PHBP0Ggx2rKfQgroWEw4j6ueZaEkSPBIdikmomaAkRvD8qDftUmsk0aek4GKt81MKRkgFWSEdTzRmzcGIQ==",
+  "dgSpecHash": "zjX/G+DIyfVZgmHLL2ArrsxljRDWvXbNnobr9Sag0Vv2j9H6Wb9WDmEFYJi/y0DdxOPbTn4hsCd6fkofEcSFHA==",
   "success": true,
   "projectFilePath": "/Users/voskan/Desktop/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/voskan/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/voskan/.nuget/packages/microsoft.data.sqlite.core/6.0.0-preview.2.21154.2/microsoft.data.sqlite.core.6.0.0-preview.2.21154.2.nupkg.sha512",
     "/Users/voskan/.nuget/packages/microsoft.entityframeworkcore/6.0.0-preview.2.21154.2/microsoft.entityframeworkcore.6.0.0-preview.2.21154.2.nupkg.sha512",
     "/Users/voskan/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.0-preview.2.21154.2/microsoft.entityframeworkcore.abstractions.6.0.0-preview.2.21154.2.nupkg.sha512",
     "/Users/voskan/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.0-preview.2.21154.2/microsoft.entityframeworkcore.analyzers.6.0.0-preview.2.21154.2.nupkg.sha512",
+    "/Users/voskan/.nuget/packages/microsoft.entityframeworkcore.design/6.0.0-preview.2.21154.2/microsoft.entityframeworkcore.design.6.0.0-preview.2.21154.2.nupkg.sha512",
     "/Users/voskan/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.0-preview.2.21154.2/microsoft.entityframeworkcore.relational.6.0.0-preview.2.21154.2.nupkg.sha512",
     "/Users/voskan/.nuget/packages/microsoft.entityframeworkcore.sqlite/6.0.0-preview.2.21154.2/microsoft.entityframeworkcore.sqlite.6.0.0-preview.2.21154.2.nupkg.sha512",
     "/Users/voskan/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/6.0.0-preview.2.21154.2/microsoft.entityframeworkcore.sqlite.core.6.0.0-preview.2.21154.2.nupkg.sha512",
